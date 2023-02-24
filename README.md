@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Juanma300102
-- 👀 I’m interested in phograpy, UX/UI Design ,Data Science and Backend with DJANGO.
-- 🌱 I’m currently learning how to use Git, how to use Django framework with python and HTML/CSS
+- 👋 Hi, Juanma here
+- 🌱 I'm specialized on Backend development with python and DevOps with AWS Cloud. Currently learning about frontend principles with react, JS and Material UI in some personal projects :)
 - 📫 How to reach me: pedrozo.juanma@gmail.com is my email. 
 
 <!---
